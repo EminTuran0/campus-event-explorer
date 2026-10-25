@@ -10,8 +10,8 @@ in Dart code, so the app works fully offline after installation.
 
 | Full name | Student ID | Contribution |
 |-----------|------------|--------------|
-| `<Member 1 full name>` | `<Student ID>` | Event data and model, `EventStore` (join/cancel/favorite logic), search and filter, unit tests |
-| `<Member 2 full name>` | `<Student ID>` | Screens and widgets (Explore, Favorites, My Events, details, image viewer), dialogs, images/font, README and screenshots |
+| Muhammed Emin Turan | 10112205552 | Event data and model, `EventStore` (join/cancel/favorite logic), search and filter, unit tests |
+| Kayra Özgül | 19043106600 | Screens and widgets (Explore, Favorites, My Events, details, image viewer), dialogs, images/font, README and screenshots |
 
 ## Flutter version
 
